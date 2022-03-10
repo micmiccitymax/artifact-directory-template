@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Finding Commonalities in misinformative Articles Across Topics
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+In order to combat the large scale distribution of misinformation online, We wanted to develop a way to flag news articles that are misinformative and could potentially mislead the general public.  In addition to flagging news articles, we also wanted to find commonalities between the misinformation that we found. Were some topics in specific containing more misleading information than others? How much overlap do these articles have when we break their content down into TF IDF and see what words carry the most importance when put into various models detecting misinformation. We wanted to narrow down our models to be trained on four different topics: economics, politics, science, and general which is a dataset encompassing the three previous topics. We Found that general included the most overlap overall, while the topics themselves, while mostly different than the other specific topics, had certain models that still put emphasis on similar words, indicating a possible pattern of misinformative language in these articles.  We believe, from these results, that we can find a pattern that could direct further investigation into how misinformation is written and distributed online.
