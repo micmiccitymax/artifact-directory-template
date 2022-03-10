@@ -1,7 +1,7 @@
 {
     "this-repository": "https://github.com/micmiccitymax/artifact-directory-template",
     "project-repository": "https://github.com/freebreadstix/capstone_B02",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
+    "dockerhub-repository": "https://hub.docker.com/repository/docker/freebreadstix/q1-replication",
     "project-website-url": "https://micmiccitymax.github.io/dsc180b02-site/",
     "project-website-code": "https://github.com/micmiccitymax/dsc180b02-site"
 }
